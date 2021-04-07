@@ -1,0 +1,19 @@
+.jumbotron {
+  padding-top: 6rem;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+.login {
+  padding-top: 6rem;
+}
+
+.register {
+  padding-top: 6rem;
+}
+
+.card {
+  border-radius: 15px;
+}
